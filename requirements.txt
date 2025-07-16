@@ -1,0 +1,4 @@
+# mindcare-chatbot1
+streamlit
+pandas
+requests
